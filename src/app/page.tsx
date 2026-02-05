@@ -37,10 +37,6 @@ const projects = [
     links: { code: "https://github.com/Kpendocodes/sendhome" },
     images: [
       {
-        src: "/projects/sendhome/login.jpeg",
-        alt: "SendHome login screen",
-      },
-      {
         src: "/projects/sendhome/wallet.jpeg",
         alt: "SendHome wallet screen",
       },

@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 const socials = {
   github: "https://github.com/Kpendocodes",
   linkedin: "https://www.linkedin.com/in/kenneth-oluoch-2ab634380",
@@ -199,12 +201,14 @@ export default function Page() {
               </div>
 
               <div className="mt-4 overflow-hidden rounded-2xl border border-zinc-800 bg-zinc-950/30">
-                  <img
+                <Image
                   src="/images/professional-shot.png"
-                    alt="Professional portrait of Kenneth Oluoch"
+                  alt="Professional portrait of Kenneth Oluoch"
+                  width={360}
+                  height={192}
                   className="h-48 w-full object-cover object-[50%_-8%]"
-                    loading="lazy"
-                  />
+                  priority
+                />
               </div>
 
               <div className="mt-5 space-y-3 text-sm text-zinc-300">

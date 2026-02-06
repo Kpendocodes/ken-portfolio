@@ -202,7 +202,7 @@ export default function Page() {
                   <img
                   src="/images/professional-shot.png"
                     alt="Professional portrait of Kenneth Oluoch"
-                  className="h-48 w-full object-cover object-[50%_-5%]"
+                  className="h-48 w-full object-cover object-[50%_-8%]"
                     loading="lazy"
                   />
               </div>

@@ -206,7 +206,7 @@ export default function Page() {
                   alt="Professional portrait of Kenneth Oluoch"
                   width={360}
                   height={192}
-                  className="h-48 w-full object-cover object-[50%_-8%]"
+                  className="h-48 w-full object-cover object-[50%_30%]"
                   priority
                 />
               </div>

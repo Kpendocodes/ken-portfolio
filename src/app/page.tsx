@@ -202,7 +202,7 @@ export default function Page() {
 
               <div className="mt-4 overflow-hidden rounded-2xl border border-zinc-800 bg-zinc-950/30">
                 <Image
-                  src="/images/professional-shot.png"
+                  src="/images/profile.png"
                   alt="Professional portrait of Kenneth Oluoch"
                   width={360}
                   height={192}
